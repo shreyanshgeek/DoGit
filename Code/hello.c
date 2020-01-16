@@ -1,5 +1,5 @@
 #include<stdio.h>
-void doBranching();
+void doBranchingConflict();
 int main()
 {
 	int a=10;
@@ -14,4 +14,8 @@ void doSomething()
 void doBranching()
 {
 	printf("Learning Branching!");
+}
+void doBranchingConflict()
+{
+	printf("Learning Branching  Conflict!.....");
 }
