@@ -15,3 +15,7 @@ void doBranchingConflict()
 {
 	printf("Learning Branching!");
 }
+void doBranchingConflict()
+{
+	printf("Learning Branching  Conflict!.....");
+}
